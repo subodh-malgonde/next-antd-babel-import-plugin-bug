@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) to demonstrate the bug reported here - []()
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app) to demonstrate the bug reported here - [next.js/issues/11403](https://github.com/zeit/next.js/issues/11403)
 
 ## Getting Started
 
